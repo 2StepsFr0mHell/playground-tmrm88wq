@@ -1,4 +1,6 @@
-New to CodinGame? Welcome! Everything seems a bit complex and overwhelming? Worry no more, and read on!
+New to CodinGame? Welcome!
+
+Everything seems a bit complex and overwhelming? Worry no more, and read on!
 
 # Our mission
 
@@ -33,7 +35,7 @@ You can find more details about this default code and what to expect from the in
 
 ## Debugging
 
-You can use the stderr for debug purposes. Debug messages will show in the console output (at the bottom left).
+You can use the stderr for debugging purposes. Debug messages will show in the console output (at the bottom left).
 
 You can not use breakpoints.
 
@@ -60,11 +62,11 @@ For each test, you can find on the left, the input data as it's sent to you in t
 
 ## Gameloop puzzles
 
-Other puzzles contain an "infinite" while loop in the default code. It's the game loop.
+Other puzzles contain an "infinite" while loop in the default code. It's the "game loop".
 
-Each iteration of the while loop corresponds to a turn of the game where your code must read input data in stdin and output a response in stdout.
+Each iteration of the while loop corresponds to a turn of the puzzle where your code must read input data in stdin and output a "move" in stdout.
 
-The game loop is actually not infinite: there is a max number of turns allowed to solve each puzzle. Once your program sends the expected output or reached the expected state, the referee program (on CodinGame side) will end the loop.
+The game loop is actually not infinite: there is a maximum number of turns allowed to solve each puzzle. Once your program sends the expected output or reached the expected state, the referee program (on CodinGame side) will end the loop.
 
 It's really important to continue reading all input data on the stdin each turn; else, your program will desynchronize from the referee program.
 
@@ -72,7 +74,7 @@ With the same idea, if you start reading the input data of turn n+1 on the stdin
 
 ## Bot programming games
  
-Bot programming games are multiplayer games where you have to create a bot (an AI). They have no test cases to pass.
+Bot programming games are multiplayer games with a game loop. Your goal is not to output a solution but to create a bot (an AI) capable of playing a game in the given environment. There are no test cases to pass.
 
 You're required to submit your bot to the arena of the game to be ranked against other players. Our system automatically play matches between bots in the arena every time a new bot, or a new version of a bot is submitted.
 
@@ -92,6 +94,6 @@ You can ask the community in the chat or on Discord if you have a problem. Peopl
 
 After you solved a puzzle with a language, you can access solutions from other players in that language. You can learn a lot there!
 
-
+________
 
 Feel free to ask questions or suggest ways to improve this guide in the comments section below.
