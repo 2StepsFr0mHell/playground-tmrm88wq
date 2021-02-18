@@ -18,7 +18,9 @@ On CodinGame, you'll be able to:
 
 ## Getting Started
 
-There are a lot of different activities to discover on CodinGame. Since most of them are probably new to you, we recommend following the **quest map** learning paths. You'll find the map on your [home page](https://www.codingame.com/home).
+There are a lot of different activities to discover on CodinGame. Here's a [complete overview](https://virtual-atom.com/codingame/introduction/) of them, written by one of our members, Thomas!
+
+We recommend following the **quest map** learning paths. You'll find the map on your [home page](https://www.codingame.com/home).
 
 # Standard streams
 
