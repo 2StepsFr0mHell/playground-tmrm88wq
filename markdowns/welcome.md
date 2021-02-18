@@ -16,18 +16,18 @@ On CodinGame, you'll be able to:
 - hang out with other passionate coders
 - strengthen your confidence and motivation to code
 
-## Getting Started
+# Getting Started
 
 There are a lot of different activities to discover on CodinGame. Here's a [complete overview](https://virtual-atom.com/codingame/introduction/) of them, written by one of our members, Thomas!
 
 We recommend following the **quest map** learning paths. You'll find the map on your [home page](https://www.codingame.com/home).
 
-# Standard streams
+## How it works
 
-In computer programming, standard streams are preconnected input and output communication channels between a computer program and its environment when it begins execution. The three input/output (I/O) connections are called standard input (**stdin**), standard output (**stdout**) and standard error (**stderr**).
+In computer programming, **standard streams** are preconnected input and output communication channels between a computer program and its environment when it begins execution. The three input/output (I/O) connections are called standard input (**stdin**), standard output (**stdout**) and standard error (**stderr**).
 
 CodinGame's model is to communicate with text, via these streams: your program is given inputs (the data needed to solve the problem) in the stdin and you need to print out the requested answer in the stdout.
-Hence, one of our taglines being: "Read stdin, Flush stdout"
+Hence, one of our taglines being: _"Read stdin, Flush stdout"_
 
 ## Protocol
 
@@ -81,6 +81,11 @@ Bot programming games are multiplayer games with a game loop. Your goal is not t
 You're required to submit your bot to the arena of the game to be ranked against other players. Our system automatically play matches between bots in the arena every time a new bot, or a new version of a bot is submitted.
 
 Here's a [guide to get started in bot programming games](https://www.codingame.com/playgrounds/53785/tutorial-for-bot-programming-on-codingame). It's actually simpler than it looks!
+
+
+# Contributing to CodinGame
+
+Most CodinGame puzzles are created and moderated by the community itself. Check [how you can contribute](https://www.codingame.com/playgrounds/40701/contribute---help/why-contribute) too to our platform and its amazing community.
 
 # Getting help
 
